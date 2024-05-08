@@ -1,10 +1,10 @@
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Homepage from './pages/Homescreen';
 import EventPage from './pages/eventspage/EventPage';
 
-import './App.css';
+import './App.css'
 
-export default function App() {
+function App() {
   return (
     <Router>
       <Routes>
@@ -14,3 +14,5 @@ export default function App() {
     </Router>
   );
 }
+
+export default App;
