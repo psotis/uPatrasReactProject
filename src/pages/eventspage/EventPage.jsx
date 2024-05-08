@@ -19,7 +19,7 @@ export default function EventPage() {
           <h1 className="event-title">{event.title}</h1>
           <img className="event-image" src={event.image} alt={event.title} />
           <div className="event-info">
-            <p><strong>Τίτλοddddς:</strong> {event.summary}</p>
+            <p><strong>Τίτλος:</strong> {event.summary}</p>
             <p><strong>Ημερομηνία έναρξης:</strong> {event.start_date}</p>
             <p><strong>Ημερομηνία λήξης:</strong> {event.end_date}</p>
             <p><strong>Ώρες επίσκεψης:</strong> {event.visiting_hours_and_days}</p>
