@@ -1,7 +1,7 @@
 import { useParams } from 'react-router-dom';
 import { useState, useEffect } from 'react';
-import './EventPage.css';
 import eventsData from '../../events/events.json';
+import './EventPage.css';
 
 export default function EventPage() {
   const { eventId } = useParams();

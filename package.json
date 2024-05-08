@@ -1,6 +1,6 @@
 {
-  "homepage": "http://psotis.github.io/uPatrasReactProject",
   "name": "city_events",
+  "homepage": "http://psotis.github.io/uPatrasReactProject",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

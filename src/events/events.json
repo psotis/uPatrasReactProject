@@ -11,7 +11,7 @@
     "address": "Οδός Κορίνθου 15, Πάτρα",
     "artist": "Δημήτρης Λάμπρου",
     "type": "Ζωγραφική",
-    "image": "/images/pinakothiki.jpg",
+    "image": "/uPatrasReactProject/images/pinakothiki.jpg",
     "isActive": true,
     "grade": 4
   },
@@ -27,7 +27,7 @@
     "address": "Πλατεία Γεωργίου 1, Πάτρα",
     "artist": "Μαρία Κωνσταντίνου",
     "type": "Θέατρο",
-    "image": "/images/theatro.jpg",
+    "image": "/uPatrasReactProject/images/theatro.jpg",
     "isActive": true,
     "grade": 3.5
   },
@@ -43,7 +43,7 @@
     "address": "Οδός Αγίου Νικολάου 25, Πάτρα",
     "artist": "Ορχήστρα Φιλαρμονίας",
     "type": "Μουσική",
-    "image": "/images/wdeio.jpg",
+    "image": "/uPatrasReactProject/images/wdeio.jpg",
     "isActive": true,
     "grade": 5
   },
@@ -59,7 +59,7 @@
     "address": "Οδός Αρτέμιδος 5, Πάτρα",
     "artist": "Σύλλογος Ελληνικών Χορών",
     "type": "Χορός",
-    "image": "/images/politistiko.jpg",
+    "image": "/uPatrasReactProject/images/politistiko.jpg",
     "isActive": true,
     "grade": 4.5
   },
@@ -75,7 +75,7 @@
     "address": "Οδός Μαιζώνος 12, Πάτρα",
     "artist": "Δημοτικός Οργανισμός Κινηματογράφου",
     "type": "Κινηματογράφος",
-    "image": "/images/asteria.jpg",
+    "image": "/uPatrasReactProject/images/asteria.jpg",
     "isActive": true,
     "grade": 5
   },
@@ -91,7 +91,7 @@
     "address": "Λεωφόρος Ελευθερίου Βενιζέλου 30, Πάτρα",
     "artist": "Μουσικοί από όλη την Ελλάδα",
     "type": "Μουσική",
-    "image": "/images/parko.jpg",
+    "image": "/uPatrasReactProject/images/parko.jpg",
     "isActive": false,
     "grade": 4
   },
@@ -107,7 +107,7 @@
     "address": "Οδός Παπαφλέσσα 4, Πάτρα",
     "artist": "Σύλλογος Λογοτεχνών Πατρών",
     "type": "Λογοτεχνία",
-    "image": "/images/vivliothiki.jpg",
+    "image": "/uPatrasReactProject/images/vivliothiki.jpg",
     "isActive": true,
     "grade": 3.5
   },
@@ -123,7 +123,7 @@
     "address": "Πλατεία Τριών Συμμάχων, Πάτρα",
     "artist": "Ένωση Γλυπτών Ελλάδας",
     "type": "Γλυπτική",
-    "image": "/images/plateia.jpg",
+    "image": "/uPatrasReactProject/images/plateia.jpg",
     "isActive": false,
     "grade": 3
   }
