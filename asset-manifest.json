@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/uPatrasReactProject/static/css/main.a4c7e7af.css",
+    "main.css": "/uPatrasReactProject/static/css/main.177d5e8e.css",
     "main.js": "/uPatrasReactProject/static/js/main.576bd335.js",
     "static/js/453.9b277fe3.chunk.js": "/uPatrasReactProject/static/js/453.9b277fe3.chunk.js",
     "index.html": "/uPatrasReactProject/index.html",
-    "main.a4c7e7af.css.map": "/uPatrasReactProject/static/css/main.a4c7e7af.css.map",
+    "main.177d5e8e.css.map": "/uPatrasReactProject/static/css/main.177d5e8e.css.map",
     "main.576bd335.js.map": "/uPatrasReactProject/static/js/main.576bd335.js.map",
     "453.9b277fe3.chunk.js.map": "/uPatrasReactProject/static/js/453.9b277fe3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4c7e7af.css",
+    "static/css/main.177d5e8e.css",
     "static/js/main.576bd335.js"
   ]
 }
